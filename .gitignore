@@ -1,0 +1,17 @@
+# Python
+*.pyc
+
+# Java
+*.class
+target
+
+# IntelliJ
+.idea
+*.iml
+
+# Eclipse
+.classpath
+.settings
+
+
+
